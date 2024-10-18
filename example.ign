@@ -7,7 +7,7 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-rsa AAAAC3NzaC1lZDI1NTE5AAAAIGw4pbwHz9kpIvx0LYyf/Cp6h9fsuXeMgE2lpaNfycgu"
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCw+g9K9Kgtim61iwNW4GshP84QcCL1sLzl1JqXtuifpEX7JcuFLzmAwIEuR2EwW92P6JldWlJ1BmWYegiyFgH1S9W2yu8NWw8w/5PQCJ/9990eF073Fj6XOaJkrnxpPwQDslIlnaeDmlGhKG/RMOz3uCgr7u4T5UlPmXMUEpUkM/1UIYZ/gTeVFgMif5rav5iE+zcegj+ZRe0BVRMr9DG2kICvrOezyuPG8PliqQaFGrOKenHd5vxJeDiU0Ww+VW27Zkk9Ww9IgCTxgMVaxtAfLkh3QS2xhfQSUn0i0FePb+z5dXpxCsNHvvyg0WR4WYP9RMIaKS9u2EI5/71R+fvTq1vgRSkZ0ehYXdRjK89js1vSJzVpdy3jF1bNiBCfDX2kHE9M+VWvc2iTtw4MoBeb9MaqY1K4sDv2SPAzrhAA0qX0MOoJeNi5V/3ano0kAY6hK987Qa82AHXC/yAxpJ0mRsyNhSFiPxpgNcSOCTL2OkmIpB0j/QMzHQHa+61sE63d0h+qh7VKXh1TRaJK7Ni1fJKJlo53E1MQ4qHkCclIHu+qAgTqcga9mOB1sqM5n62qQ3dJ5VX1f5B9WKXwoJ7At7XiTDFSFRrrpJ5PLacvIhk8wJEMv+RiYJgMXXhzzKeGKTYCPVix4+QAdok1UclFkJbazVVqrXsyecrRYWtxTQ== chrisyoung@Chriss-Mac-mini.localdomain"
         ]
       }
     ]
