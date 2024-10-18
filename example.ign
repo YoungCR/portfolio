@@ -1,0 +1,27 @@
+{
+  "ignition": {
+    "version": "3.4.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAC3NzaC1lZDI1NTE5AAAAIGw4pbwHz9kpIvx0LYyf/Cp6h9fsuXeMgE2lpaNfycgu"
+        ]
+      }
+    ]
+  },
+  "storage": {
+    "files": [
+      {
+        "path": "/etc/hostname",
+        "contents": {
+          "compression": "",
+          "source": "data:,MediaServer"
+        },
+        "mode": 420
+      }
+    ]
+  }
+}
