@@ -146,7 +146,7 @@ install_dnf() {
         fi
 
         $SUDO rpm -v --import "${PUB_KEY}"
-        $SUDO dnf config-manager --addrepo "${repo}"
+        $SUDO dnf config-manager --addrepo --from-repofile="${repo}" [--create-missing-dir] [--overwrite] [--save-filename=FILENAME]
         $SUDO dnf $install_opts install nordvpn
         exit
     fi
