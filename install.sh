@@ -13,7 +13,7 @@ fi
 
 set -e
 ARCH=$(uname -m)
-BASE_URL=https://repo.nordvpn.com/
+BASE_URL=https://repo.nordvpn.com
 KEY_PATH=/gpg/nordvpn_public.asc
 REPO_PATH_DEB=/deb/nordvpn/debian
 REPO_PATH_RPM=/yum/nordvpn/centos
