@@ -127,7 +127,7 @@ install_yum() {
         fi
 
         $SUDO rpm -v --import "${PUB_KEY}"
-        $SUDO yum-config-manager --add-repo "${repo}"
+        $SUDO yum-config-manager addrepo "${repo}"
         $SUDO yum $install_opts install nordvpn
         exit
     fi
@@ -146,7 +146,7 @@ install_dnf() {
         fi
 
         $SUDO rpm -v --import "${PUB_KEY}"
-        $SUDO dnf config-manager --addrepo --from-repofile="${repo}" [--create-missing-dir] [--overwrite] [--save-filename=FILENAME]
+        $SUDO dnf config-manager addrepo "${repo}"
         $SUDO dnf $install_opts install nordvpn
         exit
     fi
